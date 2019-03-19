@@ -8,7 +8,7 @@ setup(
     description='EDSA Python hackathon',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/<username>/<package-name>',
+    url='https://github.com/Njabz-1/lol',
     author='Njabulo Mhlambi',
     author_email='mhlambinjabulo@gmail.com'
 )
