@@ -1,5 +1,5 @@
 # mypackage
-This library was created to pass yhe hackathon project we were assigned.
+This library was created to pass the hackathon project we were assigned.
 
 ## Building this package locally
 'python setup.py sdist'
